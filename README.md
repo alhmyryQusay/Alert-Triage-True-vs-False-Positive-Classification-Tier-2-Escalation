@@ -11,7 +11,8 @@ The main objective was to triage each alert, determine whether it was a **True P
 - Escalate confirmed incidents to Tier 2.
 
 ## Tools & Technologies Used
-- SIEM (Security Information and Event Management)
+- SIEM (Security Information and Event Management
+- Splunk
 - Security monitoring and alerting tools
 - SOC incident escalation procedures
 
